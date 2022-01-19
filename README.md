@@ -1,3 +1,3 @@
-# cmsc388T-web-template
+# README
 
-Website Template for Project 3
+Updated the font and background colour.
