@@ -3,7 +3,7 @@
 * {
     box-sizing: border-box;
     font-family: Raleway;
-    color: rgb(73, 73, 73);
+    color: lightcoral;
 }
 
 html, body {
@@ -23,7 +23,7 @@ html, body {
 .nav a {
     display: inline-block;
     padding: 0.5em;
-    color: white;
+    color: #333;
     text-decoration: none;
 }
 
