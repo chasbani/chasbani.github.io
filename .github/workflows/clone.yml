@@ -25,4 +25,4 @@ jobs:
           port: ${{secrets.PORT}}
           script: |
               cd ~/../pub
-              git clone git@github.com:chasbani/chasbani.github.io.git
+              git clone https://github.com/chasbani/chasbani.github.io.git
